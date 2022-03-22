@@ -1,2 +1,1 @@
-# storm
-As a first timer getting to know Git
+# storm As a first timer getting to know Git
